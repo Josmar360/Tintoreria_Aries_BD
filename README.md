@@ -2,7 +2,7 @@
 
 El siguiente proyecto es un repositorio integral de **diseño y desarrollo de una base de datos diseñada para satisfacer las necesidades específicas de 'Tintorería Aries'**. Este proyecto incluye elementos clave, desde la **estructura de la base de datos** hasta dos **métodos de conexión y un sistema de bitácora.** Cada aspecto ha sido diseñado meticulosamente para garantizar una solución efectiva y eficiente que contribuye al éxito de 'Tintorería Aries'.
 
-<h1 align="center"> Sistema de Registro de Alumnos </h1>
+<h1 align="center"> Diseño y desarrollo de base de datos para la tintoreria "Aries" </h1>
 <p align="center"> Pantalla principal de la interfaz </p>
 <p align="center"><img src="README/1_Interfaz_Usuario.jpg"/></p>
 
@@ -94,7 +94,7 @@ El presente repositorio representa un proyecto integral de diseño y desarrollo 
 
 1. **Descargar el Repositorio:**
 
-   - Ve al repositorio en GitHub: ttps://github.com/Josmar360/Tintoreria_Aries_BD
+   - Ve al repositorio en GitHub: https://github.com/Josmar360/Tintoreria_Aries_BD
    - Haz clic en el botón verde "Code" y selecciona "Download ZIP".
    - Descomprime el archivo ZIP en la ubicación de tu elección.
 
