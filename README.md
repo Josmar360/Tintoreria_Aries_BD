@@ -49,6 +49,10 @@ Las capturas de pantalla a continuación destacan puntos clave en el proceso de 
 ![Consultas multitabla](README/5_Consultas_BD.jpg)
 ![Diagrama entidad relacion](README/6_Diagrama_ER.jpg)
 
+## Respaldo de base de datos por linea de comandos
+
+![Consultas multitabla](README/9_Respaldo_Linea_Comando.png)
+
 ## Capturas de pantalla de interfaz de usuario
 
 ![Creación de interfaz](README/7_Interfaz_Java.jpg)
